@@ -843,5 +843,4 @@ https://www.animeson.club/thundercats-classico-dublado/82844.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3l4PqZc" group-title="ThunderCats Classico",T01 S50
 https://www.animeson.club/thundercats-classico-dublado/82846.mp4
 
-
-
+PRONTO
